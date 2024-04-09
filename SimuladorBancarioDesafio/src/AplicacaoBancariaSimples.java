@@ -40,8 +40,8 @@ public class AplicacaoBancariaSimples {
                         Operações
                                         
                         1- Consultar saldos
-                        2- Receber valor
-                        3- Transferir valor
+                        2- Depositar
+                        3- Transferir
                         4- Sair
                                         
                         Digite a opção desejada:
@@ -77,8 +77,8 @@ public class AplicacaoBancariaSimples {
                         Operações
                                         
                         1- Consultar saldos
-                        2- Receber valor
-                        3- Transferir valor
+                        2- Depositar
+                        3- Transferir
                         4- Sair
                                         
                         Digite a opção desejada:
